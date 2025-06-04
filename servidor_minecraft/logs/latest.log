@@ -159,3 +159,8 @@
 [04Jun2025 22:31:47.237] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 52627 ms
 [04Jun2025 22:31:47.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (64.476s)! For help, type "help"
 [04Jun2025 22:31:47.252] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Jun2025 22:40:41.275] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77e8a8f6
+[04Jun2025 22:40:41.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Le_Pol[/127.82.80.195:60705] logged in with entity id 74 at (-7.5, 67.0, -34.5)
+[04Jun2025 22:40:41.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol joined the game
+[04Jun2025 22:42:03.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Le_Pol lost connection: Disconnected
+[04Jun2025 22:42:03.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol left the game

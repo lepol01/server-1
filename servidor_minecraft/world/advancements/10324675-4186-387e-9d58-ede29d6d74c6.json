@@ -1,0 +1,53 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-04 23:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-04 23:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-04 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-06-04 23:43:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-06-04 23:43:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-04 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-06-04 23:43:48 +0000",
+      "minecraft:snowy_plains": "2025-06-04 23:44:10 +0000",
+      "minecraft:snowy_taiga": "2025-06-04 23:44:41 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2025-06-04 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

@@ -188,9 +188,9 @@
     "color_blind": "minecraft:shaders/post/desaturate.json"
   },
   "playerRendererBlacklist": {
-    "firstperson": "arms",
     "firstpersonmod": "arms",
-    "epicfight": "all"
+    "epicfight": "all",
+    "firstperson": "arms"
   },
   "enabledTraits": {
     "SIRBEN": true,

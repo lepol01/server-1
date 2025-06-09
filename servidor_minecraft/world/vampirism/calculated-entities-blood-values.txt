@@ -1,6 +1,16 @@
 #Dynamically calculated blood values - DON'T EDIT
 {
+  "alexsmobs:emu": 15,
   "alexsmobs:raccoon": 4,
-  "alexsmobs:tusklin": 15,
-  "alexsmobs:seal": 8
+  "alexsmobs:seal": 8,
+  "alexsmobs:gelada_monkey": 12,
+  "alexsmobs:tiger": 15,
+  "alexsmobs:gazelle": 6,
+  "alexsmobs:gorilla": 12,
+  "alexsmobs:leafcutter_ant": 2,
+  "alexsmobs:kangaroo": 15,
+  "grimoireofgaia:horse": 15,
+  "alexsmobs:capuchin_monkey": 2,
+  "alexsmobs:tasmanian_devil": 2,
+  "alexsmobs:bison": 15
 }

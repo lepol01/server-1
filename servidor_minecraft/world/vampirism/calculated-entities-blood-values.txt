@@ -1,6 +1,7 @@
 #Dynamically calculated blood values - DON'T EDIT
 {
   "alexsmobs:emu": 15,
+  "alexsmobs:anteater": 13,
   "alexsmobs:raccoon": 4,
   "alexsmobs:seal": 8,
   "alexsmobs:gelada_monkey": 12,
@@ -8,6 +9,7 @@
   "alexsmobs:gazelle": 6,
   "alexsmobs:gorilla": 12,
   "alexsmobs:leafcutter_ant": 2,
+  "alexsmobs:komodo_dragon": 15,
   "alexsmobs:kangaroo": 15,
   "grimoireofgaia:horse": 15,
   "alexsmobs:capuchin_monkey": 2,

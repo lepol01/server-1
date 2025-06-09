@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-06-09 22:37:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-09 20:55:22 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-09 22:40:16 +0000"
     },
     "done": true
   },
@@ -107,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-09 22:37:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-09 21:47:07 +0000"
@@ -122,6 +140,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-09 22:37:41 +0000"
     },
     "done": true
   },
@@ -161,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 21:33:18 +0000"
@@ -173,9 +203,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 22:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-09 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -188,6 +230,18 @@
   "justhammers:recipes/justhammers.justhammers_tab/iron_hammer": {
     "criteria": {
       "has_material": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-09 22:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 22:38:16 +0000"
     },
     "done": true
   },
@@ -247,7 +301,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_cod": "2025-06-09 21:10:53 +0000"
+      "cooked_cod": "2025-06-09 21:10:53 +0000",
+      "pumpkin_pie": "2025-06-09 22:47:58 +0000",
+      "bread": "2025-06-09 22:53:55 +0000",
+      "rotten_flesh": "2025-06-09 22:43:05 +0000",
+      "cooked_salmon": "2025-06-09 22:39:22 +0000"
     },
     "done": false
   },
@@ -317,6 +375,18 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-06-09 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-09 22:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-09 21:44:19 +0000"
@@ -335,9 +405,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-09 21:23:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 22:34:21 +0000"
     },
     "done": true
   },
@@ -362,6 +444,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-09 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-09 22:37:41 +0000"
     },
     "done": true
   },
@@ -407,9 +495,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 22:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-09 22:07:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/grimoireofgaia/quill": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-06-09 22:28:17 +0000"
     },
     "done": true
   },
@@ -440,6 +546,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-09 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -482,6 +594,18 @@
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2025-06-09 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -563,21 +687,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-09 22:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-09 20:52:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-09 21:43:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-09 21:43:20 +0000"
     },
     "done": true
   },
@@ -590,6 +720,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-09 20:55:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-06-09 22:27:07 +0000"
     },
     "done": true
   },
@@ -635,6 +771,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-09 22:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-09 20:55:19 +0000"
@@ -653,6 +795,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-06-09 22:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-06-09 21:47:07 +0000"
@@ -661,12 +821,27 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-09 22:28:49 +0000",
       "minecraft:skeleton": "2025-06-09 21:46:42 +0000",
+      "minecraft:vindicator": "2025-06-09 22:33:56 +0000",
       "minecraft:creeper": "2025-06-09 21:39:20 +0000",
+      "minecraft:witch": "2025-06-09 22:38:21 +0000",
       "minecraft:zombie": "2025-06-09 21:31:32 +0000",
       "minecraft:drowned": "2025-06-09 21:55:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-09 22:29:24 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
@@ -692,15 +867,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-06-09 22:47:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-06-09 20:55:16 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-06-09 22:37:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-09 21:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -734,15 +927,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-09 22:01:58 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/vampire/blood_infused_enhanced_iron_ingot": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_iron": "2025-06-09 21:33:18 +0000"
+      "diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -761,6 +960,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-09 21:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -848,6 +1053,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-06-09 22:49:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-09 22:13:21 +0000"
@@ -878,9 +1089,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/alchemical_cauldron": {
     "criteria": {
       "has_iron": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -992,15 +1215,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-06-09 22:12:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-09 22:07:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-09 22:12:26 +0000"
     },
     "done": true
   },
@@ -1028,15 +1251,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-09 22:13:21 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "grimoireofgaia:main/spriggan": {
     "criteria": {
-      "has_item": "2025-06-09 21:33:18 +0000"
+      "kill": "2025-06-09 22:32:12 +0000"
     },
     "done": true
   },
@@ -1166,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-09 22:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-09 22:07:23 +0000"
@@ -1250,15 +1485,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-09 22:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-09 20:55:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-09 22:20:33 +0000",
+      "minecraft:sunflower_plains": "2025-06-09 22:56:38 +0000",
       "minecraft:birch_forest": "2025-06-09 21:35:50 +0000",
       "minecraft:beach": "2025-06-09 20:54:14 +0000",
       "minecraft:sparse_jungle": "2025-06-09 20:54:15 +0000",
@@ -1268,6 +1516,7 @@
       "minecraft:forest": "2025-06-09 21:22:39 +0000",
       "minecraft:deep_cold_ocean": "2025-06-09 20:52:56 +0000",
       "minecraft:ocean": "2025-06-09 22:10:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-09 22:26:30 +0000",
       "minecraft:plains": "2025-06-09 21:12:52 +0000"
     },
     "done": false
@@ -1302,9 +1551,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-06-09 22:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-09 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-09 22:42:37 +0000"
     },
     "done": true
   },
@@ -1332,6 +1593,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-09 22:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-09 20:55:18 +0000"
@@ -1350,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-09 22:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-06-09 22:19:52 +0000"
@@ -1359,6 +1638,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -1392,6 +1677,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-06-09 20:55:19 +0000"
@@ -1401,6 +1692,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-09 21:44:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/justhammers.justhammers_tab/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -1416,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-09 21:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-09 21:50:39 +0000"
@@ -1428,21 +1731,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-06-09 21:45:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-06-09 20:55:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-06-09 21:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-09 22:45:50 +0000"
     },
     "done": true
   },
@@ -1491,6 +1800,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-09 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 22:29:27 +0000"
     },
     "done": true
   },
